@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: #fc5203;
+}
+.cor1{
+    background-color:#fc5203;
+}
+.carousel-inner img{
+    height: 500px;
+    width: 100%;
+}
