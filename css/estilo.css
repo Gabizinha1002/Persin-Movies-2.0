@@ -12,3 +12,23 @@ h1{
     height: 500px;
     width: 100%;
 }
+.efeito:hover{
+    cursor: pointer;
+    transform: scale(1.2, 1.2);
+}
+.space-1{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.space{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.tamanho-letra{
+    font-size: 70px;
+}
+.fundo-botao{
+    background-color: #fc5203;
+    font-weight: bold;
+    color: white;
+}
